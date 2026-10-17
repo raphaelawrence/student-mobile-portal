@@ -3,3 +3,5 @@ A student portal project for practicing Git and GitHub collaboration.
 
 ## Components
 - `StudentProfile.jsx`: Reusable component displaying student name, ID, and program.
+
+- Status: Feature completed and ready for merge.
